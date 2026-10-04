@@ -1,0 +1,6 @@
+{
+  "name": "Fair Drop - High-Demand Ticket Allocation & Bot Protection Engine",
+  "description": "High-demand tickets shouldn't be a race against bots. High-concurrency ticket booking, fair waiting room, server-authoritative queue, and Sentinel abuse protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
